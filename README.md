@@ -1,4 +1,4 @@
-! DOCUMENTATION FOR EXERCISE 11 DOCKER
+# ! DOCUMENTATION FOR EXERCISE 11 DOCKER
 
 # Build command
 docker build -t gatos .
