@@ -15,3 +15,18 @@ docker run -p 8888:5000 gatos
 - In this case, I decided to create a folder inside the project folder called 'static', inspired by my Django project build with Nacho, and another inside called 'gifs'
 - Then I placed downloaded gif's there and declared the path of them on the image's array
 
+---
+
+# COMPOSE - EXERCISE 2
+
+## Compose.yaml:
+
+<img width="1374" height="615" alt="Captura de pantalla 2025-11-06 200219" src="https://github.com/user-attachments/assets/3d2efb41-f7a2-421e-b13f-2bb58fdd1207" />
+
+---
+
+## Composition running
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f81d230d-b638-4c6b-9bc6-12d342b9bec4" />
+
+
